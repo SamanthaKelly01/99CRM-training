@@ -1,4 +1,15 @@
+/*navbar*/
+.navbar{
+    background-color: #0d6efd;
+    
 
-h1{
-    color: rgb(33, 15, 226);
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+ul{
+    margin-left: auto;
+    justify-content: space-between;
 }
