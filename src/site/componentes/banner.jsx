@@ -5,7 +5,7 @@ function Banner() {
     <section id="banner">
       <div className="container-fluid">
         <div className=" row">
-          <div id="row1" className="col-md-6  mx-auto text-center">
+          <div className="col-md-6  mx-auto text-center">
             <h1>
               Uma plataforma de CRM simples de configurar e facil de usar.
             </h1>
@@ -19,7 +19,7 @@ function Banner() {
           </div>
 
           <div className="col-md-6">
-            <img src="Imagens/screenshot-crm.png"></img>
+            <img alt="" src="Imagens/screenshot-crm.png"></img>
           </div>
         </div>
       </div>
